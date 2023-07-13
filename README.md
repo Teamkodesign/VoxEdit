@@ -37,6 +37,32 @@ Upon launching VoxEdit for the first time, you may be prompted to create an acco
 
 Once you've installed VoxEdit and set up your account, you're ready to start creating your voxel masterpieces!
 
+## Interface Overview
+
+When you launch VoxEdit, you'll be greeted with a clean and intuitive interface. Let's take a brief tour of the key elements:
+
+- **Menu Bar**: Located at the top, it provides access to various functionalities such as file operations, editing, viewing options, and more.
+
+- **Tool Palette**: Usually situated on the left or right side, it contains a selection of tools and brushes for sculpting, painting, and modifying your voxel models.
+
+- **Viewport**: The central area of the interface where you'll see your 3D model. You can rotate, zoom, and pan the view to get a better look at your creation.
+
+- **Timeline**: If you're working on an animation, the timeline panel appears at the bottom. It enables you to create and edit keyframes, control playback, and manage animation sequences.
+
+## Creating a New Project
+
+To start a new project in VoxEdit, follow these steps:
+
+1. Open VoxEdit if it's not already running.
+2. Click on **File** in the menu bar.
+3. Select **New Project** from the dropdown menu.
+4. Choose the desired project settings, such as size and frame rate, and click **Create**.
+5. A new project will be created, and you'll be ready to start building your voxel model.
+
+Remember to save your project regularly to avoid losing your progress. You can use the **Save** or **Save As** options under the **File** menu to save your work.
+
+In the next sections of this tutorial, we'll dive deeper into the specific tools and features of VoxEdit, guiding you through the process of creating impressive voxel-based models and animations.
+
 
 ## How to Use this Tutorial
 
