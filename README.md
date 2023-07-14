@@ -63,6 +63,27 @@ Remember to save your project regularly to avoid losing your progress. You can u
 
 In the next sections of this tutorial, we'll dive deeper into the specific tools and features of VoxEdit, guiding you through the process of creating impressive voxel-based models and animations.
 
+## Building Blocks: Voxels and Palettes
+
+Voxels are the fundamental building blocks of voxel-based 3D models. In VoxEdit, you work with voxels to create your voxel art. Each voxel represents a small cube-like element that can be colored, textured, and positioned in 3D space.
+
+### Voxels
+
+To create and manipulate voxels in VoxEdit, you can use various tools and brushes available. These tools allow you to add, remove, modify, and sculpt voxels to shape your model. You can adjust the size, position, and color of voxels to create intricate details and structures.
+
+VoxEdit provides a grid-based system where you can place voxels precisely within the 3D workspace. By arranging voxels strategically, you can bring your designs to life and create stunning voxel art.
+
+### Palettes
+
+Palettes in VoxEdit are collections of colors or materials that you can use to paint and texture your voxels. Palettes enable you to define and manage a set of colors or materials that suit your project's theme or style.
+
+You can create custom palettes by selecting colors or materials and saving them for future use. Having a well-organized palette makes it easier to apply consistent colors and materials throughout your model.
+
+With the combination of voxels and palettes, you have the flexibility to create intricate voxel art with vibrant colors and textures.
+
+In the upcoming sections of this tutorial, we'll explore how to sculpt and modify voxels, apply textures and materials, animate your models, and more. Let's continue our journey into the world of voxel-based art with VoxEdit!
+
+
 
 ## How to Use this Tutorial
 
