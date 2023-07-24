@@ -9,7 +9,7 @@ Welcome to the VoxEdit tutorial repository! This tutorial is designed to help be
 2. Installation and Setup
 3. Interface Overview
 4. Creating a New Project
-5. Building Blocks: Voxels and Palettes
+5. What are voxels?
 6. Sculpting and Modifying Voxels
 7. Texturing and Materials
 8. Animating Your Model
@@ -82,6 +82,30 @@ You can create custom palettes by selecting colors or materials and saving them 
 With the combination of voxels and palettes, you have the flexibility to create intricate voxel art with vibrant colors and textures.
 
 In the upcoming sections of this tutorial, we'll explore how to sculpt and modify voxels, apply textures and materials, animate your models, and more. Let's continue our journey into the world of voxel-based art with VoxEdit!
+
+# What are Voxels?
+
+## Understanding the Basics
+
+Voxels are three-dimensional (3D) pixels, representing the building blocks of a virtual 3D space. Unlike traditional polygon-based models, which consist of interconnected triangles, voxels are individual volumetric elements that fill up the 3D environment. Think of voxels as tiny cubes, each having its own position in space and defined by its color, material, and other properties.
+
+## Voxel vs. Polygon-Based Models
+
+The main distinction between voxels and polygon-based models lies in their representation and rendering techniques. While polygon-based models use flat surfaces to construct 3D shapes, voxels create objects from a collection of individual volumetric elements. This fundamental difference impacts how models are designed, stored, and processed in virtual environments.
+
+## Advantages of Voxels in Virtual Worlds
+
+Voxels offer several advantages in the context of virtual worlds and 3D asset creation:
+
+1. **Easy Manipulation**: Voxels provide a simple and intuitive way to create and edit 3D objects. Artists and creators can easily modify individual voxels or groups of voxels to sculpt detailed structures.
+
+2. **Dynamic Environments**: With voxels, dynamic and interactive environments become more manageable. Objects created with voxels can be easily destructible, making them ideal for games with physics-based interactions.
+
+3. **Efficient Storage**: Storing voxel data requires less memory compared to polygon-based models. This efficiency is especially beneficial when dealing with vast and complex virtual worlds.
+
+4. **Procedural Generation**: Voxels enable procedural generation techniques, allowing developers to generate complex terrains, landscapes, and structures algorithmically.
+
+5. **Retro Aesthetics**: Voxels have a distinct retro aesthetic that appeals to nostalgic gamers and creators alike. Games and virtual experiences that use voxels often evoke a charming pixel art style.
 
 
 
