@@ -107,6 +107,49 @@ Voxels offer several advantages in the context of virtual worlds and 3D asset cr
 
 5. **Retro Aesthetics**: Voxels have a distinct retro aesthetic that appeals to nostalgic gamers and creators alike. Games and virtual experiences that use voxels often evoke a charming pixel art style.
 
+# Sculpting and Modifying Voxels in VoxEdit
+
+VoxEdit is a powerful voxel modeling tool that empowers artists and creators to design and sculpt 3D assets for virtual worlds, games, and the metaverse. In this article, we'll dive into the fascinating world of voxel sculpting and explore the various tools and techniques VoxEdit offers to bring your creative visions to life.
+
+## Understanding Sculpting in VoxEdit
+
+Sculpting in VoxEdit allows you to shape and manipulate individual voxels, providing a way to craft intricate details and unique forms for your voxel creations. Whether you're designing characters, environments, or props, the sculpting tools give you the freedom to add, remove, smooth, and refine your voxel models with ease.
+
+## Getting Started with Sculpting
+
+To begin sculpting in VoxEdit, open your desired project or create a new one. Once inside the editor, navigate to the **Sculpt Mode** to access the sculpting tools. The sculpting mode provides a range of brush types, each tailored for specific sculpting tasks.
+
+## Voxel Brush and Brush Settings
+
+The **Voxel Brush** is the primary tool for sculpting in VoxEdit. It allows you to interact with voxels in the 3D workspace and modify their positions, colors, and materials. The brush's size and strength can be adjusted to control the impact of your sculpting actions. Additionally, you can customize the brush falloff to control the blending between voxels, achieving smooth transitions or sharp edges.
+
+## Sculpting Techniques
+
+VoxEdit offers several sculpting techniques to help you craft intricate voxel models:
+
+- **Adding Voxels**: Use the voxel brush to add new voxels, allowing you to build up your model's structure and details.
+
+- **Removing Voxels**: When refining your design, the remove voxel function lets you erase unwanted elements or smooth out surfaces.
+
+- **Smoothing**: The smoothing tool softens the edges of your voxels, creating more organic and polished shapes.
+
+- **Blending**: Blending voxels helps you create transitions between different materials or colors seamlessly.
+
+- **Extruding and Insetting**: These techniques allow you to push or pull voxel surfaces, giving depth and dimension to your models.
+
+## Symmetry and Mirror Sculpting
+
+Symmetry is an essential feature in voxel sculpting. VoxEdit provides symmetry options to maintain balance in your design, enabling you to sculpt one side while automatically mirroring the changes to the other side. This symmetry feature is incredibly useful when creating symmetrical characters, creatures, or structures.
+
+## Sculpting Tips and Best Practices
+
+As you dive into voxel sculpting, consider the following tips to enhance your workflow:
+
+- **Use Reference Images**: Import reference images or concept art to guide your sculpting process and ensure accuracy.
+
+- **Iterative Sculpting**: Iterate through multiple passes, gradually refining your model to achieve the desired level of detail.
+
+- **Save Versions**: Save different versions of your sculpt to experiment with various design ideas.
 
 
 ## How to Use this Tutorial
